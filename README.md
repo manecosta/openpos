@@ -1,6 +1,6 @@
 # openpos
 
-Simple HTML/JS POS Interfave to plug into any payment system
+Simple HTML/JS POS Interface to plug into any payment system
 
 # Install / Run
 
